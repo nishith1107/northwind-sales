@@ -7,7 +7,7 @@ The SQL queries in this repository are designed to extract valuable insights fro
 
 Database used:
 - 
-MYSQL \
+MYSQL 
 --
 All the data for the tables are provided in csv format.
 # northwind-sales
