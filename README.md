@@ -10,4 +10,4 @@ Database used:
 MYSQL 
 --
 All the data for the tables are provided in csv format.
-# northwind-sales
+
